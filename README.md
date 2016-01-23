@@ -1,3 +1,3 @@
 # 628badgers
 
-# This is a projectpage for 628
+ This is a project repo. for 628
